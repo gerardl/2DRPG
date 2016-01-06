@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 9eabee9d0a33258409d6692ba395b095
+timeCreated: 1451704921
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: man_eater_flower_0
+    21300002: man_eater_flower_1
+    21300004: man_eater_flower_2
+    21300006: man_eater_flower_3
+    21300008: man_eater_flower_4
+    21300010: man_eater_flower_5
+    21300012: man_eater_flower_6
+    21300014: man_eater_flower_7
+    21300016: man_eater_flower_8
+    21300018: man_eater_flower_9
+    21300020: man_eater_flower_10
+    21300022: man_eater_flower_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: man_eater_flower_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 229
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 37}
+        - {x: -27, y: -35}
+        - {x: -24, y: -37}
+        - {x: 27, y: -37}
+        - {x: 27, y: 37}
+    - name: man_eater_flower_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 229
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -10}
+        - {x: 9, y: -10}
+        - {x: 13, y: -10}
+        - {x: 24, y: -5}
+        - {x: 26, y: -1}
+        - {x: 26, y: 25}
+        - {x: 21, y: 36}
+        - {x: -10, y: 36}
+        - {x: -17, y: 35}
+        - {x: -25, y: 27}
+        - {x: -26, y: 25}
+        - {x: -26, y: 0}
+        - {x: -23, y: -7}
+        - {x: -13, y: -10}
+        - {x: -12, y: -10}
+        - {x: -15, y: -10}
+        - {x: -23, y: -8}
+        - {x: -26, y: -9}
+        - {x: -26, y: -26}
+        - {x: -21, y: -36}
+        - {x: 20, y: -36}
+        - {x: 26, y: -26}
+        - {x: 26, y: -9}
+        - {x: 23, y: -8}
+    - name: man_eater_flower_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 230
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -26, y: 32}
+        - {x: -26, y: -34}
+        - {x: 24, y: -34}
+        - {x: 26, y: -27}
+        - {x: 26, y: 31}
+        - {x: 25, y: 34}
+    - name: man_eater_flower_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 37}
+        - {x: -26, y: -37}
+        - {x: 26, y: -37}
+        - {x: 26, y: 37}
+    - name: man_eater_flower_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -13.5}
+        - {x: 25, y: -5.5}
+        - {x: 26, y: -1.5}
+        - {x: 26, y: 33.5}
+        - {x: 21, y: 35.5}
+        - {x: -26, y: 35.5}
+        - {x: -26, y: -32.5}
+        - {x: -23, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 26, y: -24.5}
+        - {x: 26, y: -8.5}
+        - {x: 24, y: -8.5}
+    - name: man_eater_flower_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 154
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 34.5}
+        - {x: -25.5, y: -34.5}
+        - {x: 22.5, y: -34.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 25.5, y: 34.5}
+    - name: man_eater_flower_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 37}
+        - {x: -27, y: -35}
+        - {x: -24, y: -37}
+        - {x: 27, y: -37}
+        - {x: 27, y: 37}
+    - name: man_eater_flower_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 77
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -10}
+        - {x: 9, y: -10}
+        - {x: 13, y: -10}
+        - {x: 24, y: -5}
+        - {x: 26, y: -1}
+        - {x: 26, y: 25}
+        - {x: 21, y: 36}
+        - {x: -10, y: 36}
+        - {x: -17, y: 35}
+        - {x: -25, y: 27}
+        - {x: -26, y: 25}
+        - {x: -26, y: 0}
+        - {x: -23, y: -7}
+        - {x: -13, y: -10}
+        - {x: -12, y: -10}
+        - {x: -15, y: -10}
+        - {x: -23, y: -8}
+        - {x: -26, y: -9}
+        - {x: -26, y: -26}
+        - {x: -21, y: -36}
+        - {x: 20, y: -36}
+        - {x: 26, y: -26}
+        - {x: 26, y: -9}
+        - {x: 23, y: -8}
+    - name: man_eater_flower_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 78
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34}
+        - {x: -26, y: 32}
+        - {x: -26, y: -34}
+        - {x: 24, y: -34}
+        - {x: 26, y: -27}
+        - {x: 26, y: 31}
+        - {x: 25, y: 34}
+    - name: man_eater_flower_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 37}
+        - {x: -26, y: 37}
+        - {x: -26, y: -30}
+        - {x: -18, y: -35}
+        - {x: -13, y: -37}
+        - {x: 12, y: -37}
+        - {x: 26, y: -32}
+        - {x: 26, y: 30}
+    - name: man_eater_flower_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 35.5}
+        - {x: -25, y: 35.5}
+        - {x: -26, y: 33.5}
+        - {x: -26, y: -35.5}
+        - {x: 26, y: -35.5}
+        - {x: 26, y: 31.5}
+        - {x: 22, y: 34.5}
+    - name: man_eater_flower_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -9.5}
+        - {x: 22.5, y: -9.5}
+        - {x: 25.5, y: -5.5}
+        - {x: 25.5, y: 23.5}
+        - {x: 16.5, y: 34.5}
+        - {x: -25.5, y: 34.5}
+        - {x: -25.5, y: -34.5}
+        - {x: 23.5, y: -34.5}
+        - {x: 25.5, y: -27.5}
+        - {x: 25.5, y: -14.5}
+        - {x: 18.5, y: -9.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
