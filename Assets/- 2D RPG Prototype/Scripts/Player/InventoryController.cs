@@ -27,12 +27,18 @@ namespace RPGPrototype.Player
 
         void Update()
         {
+            if (!PlayerController.Instance.weaponController.IsLastAttackComplete) return;
+
             if (InputController.Item1) UseItem(0);
             if (InputController.Item2) UseItem(1);
             if (InputController.Item3) UseItem(2);
             if (InputController.Item4) UseItem(3);
             if (InputController.Item5) UseItem(4);
             if (InputController.Item6) UseItem(5);
+            if (InputController.Item7) UseItem(6);
+            if (InputController.Item8) UseItem(7);
+            if (InputController.Item9) UseItem(8);
+            if (InputController.Item0) UseItem(9);
         }
 
         public void SetActiveWeapon(ItemWeapon weapon)
